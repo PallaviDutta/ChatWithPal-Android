@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771880876399",
+    "firebase_url": "https://polocrazychat-4d8af.firebaseio.com",
+    "project_id": "polocrazychat-4d8af",
+    "storage_bucket": "polocrazychat-4d8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771880876399:android:356c3533a3b16a2f",
+        "android_client_info": {
+          "package_name": "com.kpf.sujeet.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771880876399-ecljbsafaajqr22busddcbv1jmkrrtfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kpf.sujeet.chat",
+            "certificate_hash": "6DAD582611E52C567A643AA17A992E7C5D1D2439"
+          }
+        },
+        {
+          "client_id": "771880876399-lsb1v164tnr2m9cqnuan2mubqd6n5ddg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKpcZKYGfP8XM0kEKsLdKahwpu1Cts8z4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771880876399-lsb1v164tnr2m9cqnuan2mubqd6n5ddg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
